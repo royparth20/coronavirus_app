@@ -20,7 +20,7 @@ enable_smart_app_banner                   : true                                
 
 # Information About Yourself
 your_name                                 : Royal Dreams                              
-your_link                                 :# https://emilbaehr.com                     
+# your_link                                 : https://emilbaehr.com                     
 your_city                                 : Surat                                
 email_address                             : royaldreamworld@gmail.com
 facebook_username                         :                                           
